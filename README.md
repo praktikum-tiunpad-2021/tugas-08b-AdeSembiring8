@@ -1,9 +1,9 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
+> PADA KEMUDIAN HAPUS BARIS INI!**
 # Tugas Praktikum Struktur Data 08
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## ADE DWI FATWA SEMBIRING - 14081020004
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
